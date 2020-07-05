@@ -1,7 +1,4 @@
-﻿/*body
-{
-}*/
-body{
+﻿body{
   background-color: rgb(132, 163, 202);
 }
 h1{
@@ -18,31 +15,6 @@ h2{
     font-size: 30px;
     text-decoration:underline;
 }
-/* The navigation bar */
-.navbar {
-    overflow: hidden;
-    background-color: #333;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
-}
-
-/* Links inside the navbar */
-.navbar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-/* Change background on mouse-over */
-.navbar a:hover {
-    background: #ddd;
-    color: black;
-}
-
 /* Main content */
 .main {
     margin-top: 5px; /* Add a top margin to avoid content overlay */
@@ -51,10 +23,6 @@ h2{
     margin-bottom: 10px;
     height: 100%;
     font-size: 18px;
-}
-
-.heading {
-    text-decoration:underline;
 }
 
 .panel { background: #f2f2f2; border: solid 1px #e6e6e6; margin: 0 0 22px 0; padding: 10px; }
