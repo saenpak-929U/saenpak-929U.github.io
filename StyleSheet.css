@@ -2,14 +2,14 @@
   background-color: rgb(132, 163, 202);
 }
 h1{
-    color:aliceblue;
+    color:white;
     font:bold;
     text-align:center;
     font-size: 30px;
     text-decoration:underline;
 }
 h2{
-    color:aliceblue;
+    color:white;
     font:bold;
     text-align:center;
     font-size: 30px;
@@ -17,11 +17,11 @@ h2{
 }
 /* Main content */
 .main {
-    margin-top: 5px; /* Add a top margin to avoid content overlay */
-    background-color: rgb(132, 163, 202);
+    /*margin-top: 5px; /* Add a top margin to avoid content overlay */
+    background-color: background-color: rgb(132, 163, 202);
     padding-left: 10px;
-    margin-bottom: 10px;
-    height: 100%;
+    /*margin-bottom: 10px;
+    height: 100%;*/
     font-size: 18px;
 }
 
