@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="stylesheet.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <link rel="shortcut icon" type="image/png" href="Images/favicon.png">
+    <title>School Info Page</title>
+</head>
+<body>
+  <!---->
+  </div>
+    <div class="main">
+        <h1>Weekly Schedule</h1>
+        <div class="pics">
+          <img src="Images/finalSchedule.png" alt="Second Semester Schedule" width="900px"/></br>
+          <p> </br>  </p>
+          <img src="Images/semester2month.png" alt="Second Semester Month Schedule" width="900px"/></br>
+        </div>
+      </br>
+        <p> Class codes: </br>
+          <ul>
+            Homeroom: sobelhomeroom</br>
+            1: MundiePeriod1APCSA</br>
+            2: msferg-apstat2b</br>
+            3: MundiePeriod3APCalculusAB</br>
+            4: MaffeiAPUSHPeriod4</br>
+          </ul>
+        <p> Meet codes: </br>
+          <ul>
+            Ferg Enrichment: msferg-enrichment</br>
+            SNHS: snhs_hhs</br>
+            NTHS: HHS_NTHS21</br>
+            MAO: HHSMAT</br>
+            DONE!!! Tri-M: herefordtrim</br>
+          </ul>
+        </br>
+        <p>AP TEST DATES</p>
+        <ul>
+          1. AP USH: May 19th @ 12pm </br>
+          2. AP CSA: June 1st @ 4pm </br>
+          3. AP Lang: June 7th @ 12pm </br>
+          4. AP Calc AB: June 9th @ 12pm </br>
+          5. AP Physics 1: June 9th @ 4pm </br>
+          6. AP Stat: June 10th @ 4pm </br>
+
+        </ul>
+    </div>
+<style>
+  .main{
+    color: rgb(0,0,0)
+  }
+  .pics{
+    margin-left: 10px;
+  }
+  body{
+    background-color: rgb(32,64,96);
+  }
+</style>
+</body>
+</html>
